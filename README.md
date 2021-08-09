@@ -12,11 +12,12 @@
 
 
 ## General Information
-- The purpose of this project was to familiarize ourselves with:
-	-Git Hub Reposotories
-	-Terminal Command Line Entries
-	-Semantic HTML elements
-	-Basic HTML Trouble Shooting
+The purpose of this project was to familiarize ourselves with:
+
+-Git Hub Reposotories
+-Terminal Command Line Entries
+-Semantic HTML elements
+-Basic HTML Trouble Shooting
 
 ## Technologies Used
 - Git Hub
@@ -25,22 +26,25 @@
 
 
 ## Setup
+
 Setup was initially pretty complicated (for me) and required the following:
 -Starter Code/ReadMe Instructions located on Git Lab Repo
 -New Git Hub Repo
-	-Read Me file
-	-index.html
-	-style.css
-	-images
-	-Git Clone, Git Add, Git Commit, Git Push
--Once everything was setup, work in VS Code to 'clean up' the existing code by swapping div tags for better suited tags
-	-special note, after reading about aside class, we put one in line 50 as it made sense for the 'benefits' along the sidebar
-	-added a footer in line 73
-	-did a split of Section tags and Article tags as Article seemed to better align with the aside along the sidebar. Not a big deal and didnt change much visually, but made the code look cleaner to me
+-Read Me file
+-index.html
+-style.css
+-images
+-Git Clone, Git Add, Git Commit, Git Push
+
+Once everything was setup, work in VS Code to 'clean up' the existing code by swapping div tags for better suited tags:
+-special note, after reading about aside class, we put one in line 50 as it made sense for the 'benefits' along the sidebar
+-added a footer in line 73
+-did a split of Section tags and Article tags as Article seemed to better align with the aside along the sidebar. Not a big deal and didnt change much visually, but made the code look cleaner to me
 -Indentions for readability
--Ensure working links
-	-Note that the one link not working initially didn't have an ID associated with. Once this was added, link worked
-	-Updated Title from 'website' to 'Horiseon' in line 6
+
+Ensure working links:
+-Note that the one link not working initially didn't have an ID associated with. Once this was added, link worked
+-Updated Title from 'website' to 'Horiseon' in line 6
 
 
 
